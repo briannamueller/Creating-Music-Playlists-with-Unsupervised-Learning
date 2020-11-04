@@ -24,6 +24,8 @@ PCA with 3 components
 <br><img width="794" alt="Screen Shot 2020-11-03 at 7 38 23 PM" src="https://user-images.githubusercontent.com/54564733/98059209-2db1cd00-1e0c-11eb-8a44-0973b6c27aa3.png"><br><br>
 
 Comparing the mean values of some features accross clusters
+<br><img width="570" alt="Screen Shot 2020-11-03 at 7 42 52 PM" src="https://user-images.githubusercontent.com/54564733/98059502-e8da6600-1e0c-11eb-8e2c-30d8ff972c15.png"><br><br>
+
 
 
 
