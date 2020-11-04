@@ -14,5 +14,8 @@ The Elbow method was used to select the optimal number of clusters. (Select k wh
 
 <br><img width="650" alt="Screen Shot 2020-11-03 at 7 20 58 PM" src="https://user-images.githubusercontent.com/54564733/98058216-bed37480-1e09-11eb-9c70-5a03065a44fa.png"><br><br>
 
+The number of songs in each cluster
+<br><img width="477" alt="Screen Shot 2020-11-03 at 7 27 45 PM" src="https://user-images.githubusercontent.com/54564733/98058567-b3347d80-1e0a-11eb-9cd1-45490d243527.png"><br><br>
 
+Visualization the Clusters with a Principle Component Analysis
 
