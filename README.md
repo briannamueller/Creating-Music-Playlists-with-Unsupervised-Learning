@@ -17,5 +17,10 @@ The Elbow method was used to select the optimal number of clusters. (Select k wh
 The number of songs in each cluster
 <br><img width="477" alt="Screen Shot 2020-11-03 at 7 27 45 PM" src="https://user-images.githubusercontent.com/54564733/98058567-b3347d80-1e0a-11eb-9cd1-45490d243527.png"><br><br>
 
-Visualization the Clusters with a Principle Component Analysis
+Visualization the Clusters with a Principle Component Analysis: 
+<br><img width="740" alt="Screen Shot 2020-11-03 at 7 30 30 PM" src="https://user-images.githubusercontent.com/54564733/98059117-f8a57a80-1e0b-11eb-91aa-09f559e6423d.png"><br><br>
+
+PCA with 3 components
+
+
 
