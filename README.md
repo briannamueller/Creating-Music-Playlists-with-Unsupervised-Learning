@@ -21,6 +21,9 @@ Visualization the Clusters with a Principle Component Analysis:
 <br><img width="740" alt="Screen Shot 2020-11-03 at 7 30 30 PM" src="https://user-images.githubusercontent.com/54564733/98059117-f8a57a80-1e0b-11eb-91aa-09f559e6423d.png"><br><br>
 
 PCA with 3 components
+<br><img width="794" alt="Screen Shot 2020-11-03 at 7 38 23 PM" src="https://user-images.githubusercontent.com/54564733/98059209-2db1cd00-1e0c-11eb-8a44-0973b6c27aa3.png"><br><br>
+
+Comparing the mean values of some features accross clusters
 
 
 
