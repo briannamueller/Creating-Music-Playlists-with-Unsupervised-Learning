@@ -14,16 +14,16 @@ The Elbow method was used to select the optimal number of clusters. (Select k wh
 
 <br><img width="650" alt="Screen Shot 2020-11-03 at 7 20 58 PM" src="https://user-images.githubusercontent.com/54564733/98058216-bed37480-1e09-11eb-9c70-5a03065a44fa.png"><br><br>
 
-The number of songs in each cluster
-<br><img width="477" alt="Screen Shot 2020-11-03 at 7 27 45 PM" src="https://user-images.githubusercontent.com/54564733/98058567-b3347d80-1e0a-11eb-9cd1-45490d243527.png"><br><br>
+#### The number of songs in each cluster
+<br><br><img width="477" alt="Screen Shot 2020-11-03 at 7 27 45 PM" src="https://user-images.githubusercontent.com/54564733/98058567-b3347d80-1e0a-11eb-9cd1-45490d243527.png"><br><br>
 
-Visualization the Clusters with a Principle Component Analysis: 
+#### Visualization the Clusters with a Principle Component Analysis: 
 <br><img width="740" alt="Screen Shot 2020-11-03 at 7 30 30 PM" src="https://user-images.githubusercontent.com/54564733/98059117-f8a57a80-1e0b-11eb-91aa-09f559e6423d.png"><br><br>
 
-PCA with 3 components
+#### PCA with 3 components
 <br><img width="794" alt="Screen Shot 2020-11-03 at 7 38 23 PM" src="https://user-images.githubusercontent.com/54564733/98059209-2db1cd00-1e0c-11eb-8a44-0973b6c27aa3.png"><br><br>
 
-Comparing the mean values of some features accross clusters
+#### Comparing the mean values of some features accross clusters
 <br><img width="570" alt="Screen Shot 2020-11-03 at 7 42 52 PM" src="https://user-images.githubusercontent.com/54564733/98059502-e8da6600-1e0c-11eb-8e2c-30d8ff972c15.png"><br><br>
 
 
