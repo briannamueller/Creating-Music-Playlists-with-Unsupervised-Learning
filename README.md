@@ -8,7 +8,7 @@ I have never been one to create music playlsits on Spotify. Most oftten, I don't
 #### 2. EDA
 #### 3. K-Means clustering
 
-<br>You can find main steps of the K-Means clustering process below.<br>
+<br>You can find the main steps of the K-Means clustering process below.<br>
 
 The Elbow method was used to select the optimal number of clusters. (Select k where the Within-Cluster-Sum of Squared Errors starts to diminish, or where the curve begins to level out.) A k value of 5 was chosen for this application. 
 
