@@ -7,6 +7,7 @@ I have never been one to create music playlsits on Spotify. Most oftten, I don't
 #### 1. Data cleaning / transformation
 #### 2. EDA
 #### 3. K-Means clustering
+#### 4. Create playlists with the Spotify API.
 
 <br>You can find the main steps of the K-Means clustering process below.<br>
 
