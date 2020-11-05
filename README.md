@@ -26,6 +26,9 @@ The Elbow method was used to select the optimal number of clusters. (Select k wh
 #### Comparing the mean values of some features accross clusters
 <br><img width="570" alt="Screen Shot 2020-11-03 at 7 42 52 PM" src="https://user-images.githubusercontent.com/54564733/98059502-e8da6600-1e0c-11eb-8e2c-30d8ff972c15.png"><br><br>
 
+### Creating a playlist for each cluster using the Spotify API.
+<br><img width="931" alt="Screen Shot 2020-11-04 at 8 03 46 PM" src="https://user-images.githubusercontent.com/54564733/98188756-3c19ea80-1ed9-11eb-90cc-43904b35e510.png"><br><br>
+
 
 
 
