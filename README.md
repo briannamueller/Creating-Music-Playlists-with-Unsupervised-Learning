@@ -1,8 +1,8 @@
 # Creating Music Playlists with Unsupervised Learning
 
-I have never been one to create music playlsits on Spotify. Most oftten, I don't want to take the time to create playlists On the rare occasions I do attempt to make a playlist, I don't know what's the best way to group my songs. Therefore, any song I like ends up in the 'Liked Songs' list with the rest of my 500+ saved songs. I wanted to see if I could use unsupervised learning as a solution. 
+I have never been one to create music playlsits on Spotify. Most oftten, I don't want to take the time to create playlists and on the rare occasions I do attempt to make a playlist, I can't decide how I should structure my playlists. Therefore, any song I like ends up in the 'Liked Songs' list with the rest of my 500+ saved songs. I was interested in exploring unsupervised learning methods as a possible solution. 
 
-### Objective: Use the K-means clustering algorithm to separate my songs into playlists. The goal is create playlists that 'make sense' in terms of song similarity.
+### Objective: Use a K-means clustering algorithm to separate my songs into playlists. The goal is create playlists that appear to be logical in terms of song similarity. Use the Spotify API to create Spotify playlists in Python.
 
 #### 1. Data cleaning / transformation
 #### 2. EDA
