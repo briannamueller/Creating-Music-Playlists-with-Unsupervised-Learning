@@ -4,7 +4,7 @@ I have never been one to create music playlsits on Spotify. Most oftten, I don't
 
 ### Objective: Use a K-means clustering algorithm to separate my songs into playlists. The goal is create playlists that appear to be logical in terms of song similarity. Use the Spotify API to create Spotify playlists in Python.
 
-#### 1. Data cleaning / transformation
+#### 1. Obtain saved songs with the Spotify API.
 #### 2. EDA
 #### 3. K-Means clustering
 #### 4. Create playlists with the Spotify API.
